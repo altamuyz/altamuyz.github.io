@@ -1,0 +1,292 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+sys_food_now
+</name>
+</assembly>
+<members>
+<member name="T:sys_food_now.DataSet_by_one_by.Tbl_sales_DetDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:sys_food_now.DataSet_by_one_by.Tbl_salesDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:sys_food_now.DataSet_by_one_by.Tbl_logoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:sys_food_now.DataSet_by_one_by.Tbl_sales_DetRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:sys_food_now.DataSet_by_one_by.Tbl_salesRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:sys_food_now.DataSet_by_one_by.Tbl_logoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:sys_food_now.DataSet_by_one_by.Tbl_sales_DetRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:sys_food_now.DataSet_by_one_by.Tbl_salesRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:sys_food_now.DataSet_by_one_by.Tbl_logoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:sys_food_now.DataSet_by_one_by">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="P:sys_food_now.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:sys_food_now.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:sys_food_now.My.Resources.Resources.pic">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="T:sys_food_now.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="T:sys_food_now.DataSet1.Tbl_sales_DetDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:sys_food_now.DataSet1.Tbl_salesDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:sys_food_now.DataSet1.Tbl_sales_DetRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:sys_food_now.DataSet1.Tbl_salesRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:sys_food_now.DataSet1.Tbl_sales_DetRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:sys_food_now.DataSet1.Tbl_salesRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:sys_food_now.DataSet1">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:sys_food_now.DataSet__day_ittemsss.DataTable1DataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:sys_food_now.DataSet__day_ittemsss.DataTable1Row">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:sys_food_now.DataSet__day_ittemsss.DataTable1RowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:sys_food_now.DataSet__day_ittemsss">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:sys_food_now.DataSet_dr.View_drDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:sys_food_now.DataSet_dr.Tbl_logoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:sys_food_now.DataSet_dr.View_drRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:sys_food_now.DataSet_dr.Tbl_logoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:sys_food_now.DataSet_dr.View_drRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:sys_food_now.DataSet_dr.Tbl_logoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:sys_food_now.DataSet_dr">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:sys_food_now.DataSet_items_day.Tbl_logoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:sys_food_now.DataSet_items_day.Tbl_sales_DetDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:sys_food_now.DataSet_items_day.Tbl_logoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:sys_food_now.DataSet_items_day.Tbl_sales_DetRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:sys_food_now.DataSet_items_day.Tbl_logoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:sys_food_now.DataSet_items_day.Tbl_sales_DetRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:sys_food_now.DataSet_items_day">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:sys_food_now.DataSet_Drive_.View_3DataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:sys_food_now.DataSet_Drive_.Tbl_logoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:sys_food_now.DataSet_Drive_.View_3Row">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:sys_food_now.DataSet_Drive_.Tbl_logoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:sys_food_now.DataSet_Drive_.View_3RowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:sys_food_now.DataSet_Drive_.Tbl_logoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:sys_food_now.DataSet_Drive_">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:sys_food_now.DataSet8ccc.Tbl_logoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:sys_food_now.DataSet8ccc.Tbl_sales_DetDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:sys_food_now.DataSet8ccc.Tbl_salesDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:sys_food_now.DataSet8ccc.Tbl_logoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:sys_food_now.DataSet8ccc.Tbl_sales_DetRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:sys_food_now.DataSet8ccc.Tbl_salesRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:sys_food_now.DataSet8ccc.Tbl_logoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:sys_food_now.DataSet8ccc.Tbl_sales_DetRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:sys_food_now.DataSet8ccc.Tbl_salesRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:sys_food_now.DataSet8ccc">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:sys_food_now.DataSet_End_day.DataTable1DataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:sys_food_now.DataSet_End_day.DataTable1Row">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:sys_food_now.DataSet_End_day.DataTable1RowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:sys_food_now.DataSet_End_day">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:sys_food_now.DataSet_report_item_delivry.Tbl_logoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:sys_food_now.DataSet_report_item_delivry.Tbl_sales_DetDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:sys_food_now.DataSet_report_item_delivry.View__deirvilyy_itemDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:sys_food_now.DataSet_report_item_delivry.Tbl_logoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:sys_food_now.DataSet_report_item_delivry.Tbl_sales_DetRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:sys_food_now.DataSet_report_item_delivry.View__deirvilyy_itemRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:sys_food_now.DataSet_report_item_delivry.Tbl_logoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:sys_food_now.DataSet_report_item_delivry.Tbl_sales_DetRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:sys_food_now.DataSet_report_item_delivry.View__deirvilyy_itemRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:sys_food_now.DataSet_report_item_delivry">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+</members>
+</doc>
